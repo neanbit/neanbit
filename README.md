@@ -1,6 +1,6 @@
 # neanbit
 
-Desarrollo software y construyo proyectos propios.
+Desarrollo software
 
 ## Contacto
 
