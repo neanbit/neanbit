@@ -1,7 +1,5 @@
 # neanbit
 
-Desarrollo software
-
 ## Contacto
 
 [![Web](https://img.shields.io/badge/Web-neanbit.com-2B55E6?style=flat-square&labelColor=131B2E)](https://neanbit.com)
